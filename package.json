@@ -1,0 +1,10 @@
+{
+  "name": "jp-framework",
+  "version": "1.0.11",
+  "type": "module",
+  "bin": {
+    "create-app": "./compiler.js"
+  },
+  "dependencies": {}
+}
+
